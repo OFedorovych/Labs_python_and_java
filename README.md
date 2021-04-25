@@ -1,4 +1,4 @@
-# Labs_python
+# Labs_python 
 Lab.6
 Завдання:
 Реалізувати REST-сервіс (операції GET/POST/PUT/DELETE) для одного з класу з лабораторної роботи 3 з використанням засобів мови Python:
@@ -9,5 +9,6 @@ SQLAlchemy-1.1.15
 MySQL-5.7 / MySQL-8.0 (в залежності від того, яку базу даних було обрано в 8-й роботі)
 
 Я використовував клас Good з моєї лабораторної роботи №3 (https://github.com/OFedorovych/Labs_python/blob/Lab3/Lab3.py)
+
 
 
