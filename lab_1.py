@@ -11,7 +11,8 @@ class Shoes:
 
        
     def __str__(self):
-       return f"Brand name is {self.name}\nPrice of this pair is {self.price} dollars\nSize of this pair is {self.size}\nCountry in which it was made is {self.country}\nYear when it was made is {self.year}\n"
+       return f"Brand name is {self.name}\nPrice of this pair is {self.price} dollars\n
+       Size of this pair is {self.size}\nCountry in which it was made is {self.country}\nYear when it was made is {self.year}\n"
     
     @staticmethod
     def color_shower():
